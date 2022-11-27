@@ -1,0 +1,17 @@
+////…or create a new repository on the command line
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/FlavioOliveira35/WebSites---JS-GIT-GITHUB.git
+git push -u origin main
+
+//////…or push an existing repository from the command line
+git remote add origin https://github.com/FlavioOliveira35/WebSites---JS-GIT-GITHUB.git ( para ativar remoto github)
+git branch -M main  (substiuti pelo master)
+git remote ( mostra o nome do arquivo remoto)
+git push -u origin main ( vai subir repositorio local para remoto)
+
+
+git clone https://github.com/FlavioOliveira35/WebSites---JS-GIT-GITHUB.git
+git pull vai atualizar meu branch igual ao que esta no github se outra pessoal atualizou com novas informações
