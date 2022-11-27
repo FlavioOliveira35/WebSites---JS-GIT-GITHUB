@@ -1,16 +1,25 @@
+gitbash
+//////////////(identificação)//////////////////
 git config --global user.name "flavio"
 
 git config --global user.email "flavio_cesar_oliveira@hotmail.com"
 
 
-///////
+///////commit é tipo um snapshot(foto, versaocla) da codigo atual
+
 git --version
 clear
-git status ( vai mostrar os srquivos não preparados  para commit mas te mmodificações)
+git status ( vai mostrar os arquivos não preparados  para commit mas te mmodificações)
 git add index.html ( para inserir na preparação)
 git rm --cached index.html ( para retirar da preperação)
-git add. (prepara todos os arquivos paea commit)
+git add . (prepara todos os arquivos paea commit)
 
-git init
-git add.
+///////// operação do git ( só git) /////////////
+git init  
+git add .
 git commit -m "Mensagem descritiva"
+git log ( consegue ver todos os commits)
+
+////ignore/////////
+criar um arquivo e dentro dele colocar o nome do arquivo a ser ignorado pelo git
+.gitignore  // ignore.js
