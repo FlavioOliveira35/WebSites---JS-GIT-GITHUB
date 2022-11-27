@@ -28,3 +28,4 @@ criar um arquivo e dentro dele colocar o nome do arquivo a ser ignorado pelo git
 git branch development ( criar pasta / branch?)
 git branch   ( mostra as postas?)
 git checkout development ( alterar a pasta/ branch que estou)
+git merge cadastro-cliente ( adiciona essa branch na branch que eu estiver selecionado)
