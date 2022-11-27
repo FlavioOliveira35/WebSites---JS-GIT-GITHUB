@@ -23,3 +23,8 @@ git log ( consegue ver todos os commits)
 ////ignore/////////
 criar um arquivo e dentro dele colocar o nome do arquivo a ser ignorado pelo git
 .gitignore  // ignore.js
+
+///////////// saindo do master para desenvolvimeno de teste/// criar branch é como criar pequenas pastas no repositorio
+git branch development ( criar pasta / branch?)
+git branch   ( mostra as postas?)
+git checkout development ( alterar a pasta/ branch que estou)
