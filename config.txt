@@ -1,0 +1,16 @@
+git config --global user.name "flavio"
+
+git config --global user.email "flavio_cesar_oliveira@hotmail.com"
+
+
+///////
+git --version
+clear
+git status ( vai mostrar os srquivos não preparados  para commit mas te mmodificações)
+git add index.html ( para inserir na preparação)
+git rm --cached index.html ( para retirar da preperação)
+git add. (prepara todos os arquivos paea commit)
+
+git init
+git add.
+git commit -m "Mensagem descritiva"
