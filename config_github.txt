@@ -15,3 +15,6 @@ git push -u origin main ( vai subir repositorio local para remoto)
 
 git clone https://github.com/FlavioOliveira35/WebSites---JS-GIT-GITHUB.git
 git pull vai atualizar meu branch igual ao que esta no github se outra pessoal atualizou com novas informações
+
+pull ( puxar)
+push (empurrar)
